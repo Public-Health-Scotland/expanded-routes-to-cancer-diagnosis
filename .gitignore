@@ -1,0 +1,34 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Folders
+Charts/
+Documentation/
+IACR 2026/
+Output/
+
+# Common text files that may contain data #
+*.[cC][sS][vV]
+*.[tT][xX][tT]
+
+# Excel files #
+*.[xX][lL][sS][xXmMtT]?
+
+# SPSS formats #
+*.[sS][aA][vV]
+*.[zZ][sS][aA][vV]
+
+# R data files #
+*.[rR][dD][aA][tT][aA]
+*.[rR][dD][sS]
+
+# Emails #
+*.[mM][sS][gG]
+
+# HTML #
+*.[hH][tT][mM][lL]
+
+# ZIP #
+*.[zZ][iI][pP]
